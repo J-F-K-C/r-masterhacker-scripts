@@ -1,5 +1,4 @@
 # r-masterhacker-scripts
-Funny Scripts für r/masterhacker
+Funny Scripts for r/masterhacker
 
-
-These are just-for-fun Scripts for r/masterhacker subreddit (and trolling)
+most of them have no real function besides just-for-fun

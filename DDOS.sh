@@ -1,0 +1,1 @@
+target="TARGET-IP"; for i in {1..100}; do src_ip="$((RANDOM%256)).$((RANDOM%256)).$((RANDOM%256)).$((RANDOM%256))"; echo "[#] SYN from $src_ip to $target:80"; sleep 0.05; done; echo -e "\n\n*** Attack complete on $target ***"
